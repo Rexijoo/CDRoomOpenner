@@ -4,4 +4,4 @@
 This program can do infinity cycle of open CDRoom
 
 
-![Logo](https://i.yapx.ru/XYoC1.jpg)
+![Logo](https://i.postimg.cc/RFLPFdtW/XYoC1.jpg)
